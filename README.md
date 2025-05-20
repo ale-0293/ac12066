@@ -5,11 +5,13 @@ Departamento de Ingeniería y Arquitectura
 Ingeniería en Desarrollo de Software
 
 Estudiante: Martín Alejandro Amaya Castro 
+
 Carné: AC12066
 
 Asignatura: Diseño y Estructura de Computadoras DEC135 GT01
 
 Docente tutor: Ing. Erick Vladimir Guirola Lemus
+
 Coordinador de cátedra: MEd. Ing. Luis Alberto Herrera Mejía
 
 Asignación: Portafolio
